@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img{
+    width: 250px;
+}
+
+button {
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
+
+small {
+    margin-left: 46%;
+    transform: translateX(-100%);
+}
